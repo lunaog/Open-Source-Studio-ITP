@@ -101,6 +101,7 @@ Open Source Studio is a class about maintaining an inclusive, healthy open sourc
 * Complete the open source dataset assignment. [Full Instructions](data-assignment.md)
 * Write a short post about the readings above and pull request a link to your post below.
   * Name: [Title of Post](url)    
+  * luna : [code and ethics in tech!](https://wp.nyu.edu/luna/2018/09/22/code-of-conduct-reading-response/)
 
 ## Week 4: Unit Testing and Continuous Integration, Sept 25
 ### Guest
